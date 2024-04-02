@@ -6,7 +6,7 @@ New York City Vs Boston Airbnb Comparison
 First EDA for CodeOp's Data Science Bootcamp
 
 # Data Science EDA Milestone
-Using the Air BnB dataset that you've used previously or a similar dataset that has been cleared by myself, Priyanka or Pilar, do the following:
+Using the Air BnB dataset that you've used previously or a similar dataset:
 1. Combine the analysis that you've done so far into one file
 2. Organize it in a way such that the story you're telling is following a logical pattern
 3. Add  additional analyses to your document as how you see fit
